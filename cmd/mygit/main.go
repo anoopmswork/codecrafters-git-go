@@ -2,7 +2,7 @@
 //
 // It is the entry point for the "Build Your Own Git" CodeCrafters challenge.
 // Currently supported commands:
-//   - init: Initialise a new Git repository in the current directory.
+//   - init: Initialize a new Git repository in the current directory.
 package main
 
 import (
